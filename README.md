@@ -1,4 +1,4 @@
-# Nuxt 3 - Portfolio Đầu Tiên
+# NuxtJS - Portfolio Đầu Tiên
 - Nuxt 3
 - TypeScript
 - Tailwind CSS
