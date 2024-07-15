@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "title": "Tesla Ecommerce",
+      "image": "https://wallpapercave.com/wp/wp7718053.png",
+      "github": "/",
+      "website": "/",
+      "technologies": ["devicon-react-original", "devicon-typescript-plain", "devicon-redux-original", "devicon-tailwindcss-original", "devicon-firebase-plain"],
+      "description": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+    },
+    {
+      "title": "NextJS",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO3VmJm7nj7KTyo6mtewa9owBx0vLnBC5F3IK6p9KlgFfpKnX8QhZfgZzfDdRTwzYs8Oo&usqp=CAU",
+      "github": "/",
+      "website": null,
+      "technologies": ["devicon-nextjs-plain", "devicon-typescript-plain" , "devicon-tailwindcss-original"],
+      "description": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+    },
+    {
+      "title": "Angular",
+      "image": "https://www.codemotion.com/magazine/wp-content/uploads/2024/02/Angular-open-source-min.png",
+      "github": "/",
+      "website": "/",
+      "technologies": ["devicon-angularjs-plain", "devicon-typescript-plain"],
+      "description": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+    },
+    {
+      "title": "VueJS",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*_H0u873u5Jsh1yR3A-mo_Q.png",
+      "github": "/",
+      "website": null,
+      "technologies": ["devicon-vuejs-plain", "devicon-tailwindcss-original"],
+      "description": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+    },
+    {
+      "title": "Youtube Clone API",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/031/236/362/small_2x/youtube-logo-sticker-on-pattern-printed-on-paper-with-small-youtube-logos-and-inscriptions-youtube-is-google-subsidiary-and-american-most-popular-video-sharing-platform-free-photo.jpg",
+      "github": "/",
+      "website": "/",
+      "technologies": ["devicon-react-original", "devicon-fastapi-plain", "devicon-axios-plain", "devicon-vitejs-plain"],
+      "description": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "competences": [
+    {
+      "id": 0,
+      "icon": "devicon-html5-plain",
+      "name": "HTML5"
+    },
+    {
+      "id": 1,
+      "icon": "devicon-css3-plain",
+      "name": "CSS3"
+    },
+    {
+      "id": 2,
+      "icon": "devicon-javascript-plain",
+      "name": "JavaScript"
+    },
+    {
+      "id": 3,
+      "icon": "devicon-react-original",
+      "name": "ReactJS"
+    },
+    {
+      "id": 4,
+      "icon": "devicon-vuejs-plain",
+      "name": "VueJS"
+    },
+    {
+      "id": 5,
+      "icon": "devicon-angular-plain",
+      "name": "Angular"
+    },
+    {
+      "id": 5,
+      "icon": "devicon-nextjs-plain",
+      "name": "NextJS"
+    },
+    {
+      "id": 6,
+      "icon": "devicon-typescript-plain",
+      "name": "TypeScript"
+    },
+    {
+      "id": 7,
+      "icon": "devicon-flask-original",
+      "name": "Flask"
+    },
+    {
+      "id": 8,
+      "icon": "devicon-nodejs-plain-wordmark",
+      "name": "Node.js"
+    },
+    {
+      "id": 9,
+      "icon": "devicon-express-original",
+      "name": "Express"
+    },
+    {
+      "id": 10,
+      "icon": "devicon-docker-plain",
+      "name": "Docker"
+    },
+    {
+      "id": 11,
+      "icon": "devicon-tailwindcss-original",
+      "name": "Tailwind"
+    },
+    {
+      "id": 12,
+      "icon": "devicon-sass-original",
+      "name": "SASS"
+    },
+    {
+      "id": 13,
+      "icon": "devicon-redux-original",
+      "name": "Redux"
+    },
+    {
+      "id": 14,
+      "icon": "devicon-java-plain",
+      "name": "Java"
+    },
+    {
+      "id": 15,
+      "icon": "devicon-python-plain",
+      "name": "Python"
+    },
+    {
+      "id": 16,
+      "icon": "devicon-csharp-plain",
+      "name": "C#"
+    },
+    {
+      "id": 17,
+      "icon": "devicon-php-plain",
+      "name": "PHP"
+    },
+    {
+      "id": 18,
+      "icon": "devicon-bootstrap-plain",
+      "name": "Bootstrap"
+    },
+    {
+      "id": 19,
+      "icon": "devicon-figma-plain",
+      "name": "Figma"
+    },
+    {
+      "id": 20,
+      "icon": "devicon-photoshop-plain",
+      "name": "Photoshop"
+    },
+    {
+      "id": 21,
+      "icon": "devicon-git-plain",
+      "name": "Git"
+    },
+    {
+      "id": 22,
+      "icon": "devicon-github-original",
+      "name": "Github"
+    },
+    {
+      "id": 23,
+      "icon": "devicon-androidstudio-plain",
+      "name": "Android"
+    },
+    {
+      "id": 24,
+      "icon": "devicon-microsoftsqlserver-plain",
+      "name": "SQL Server"
+    },
+    {
+      "id": 25,
+      "icon": "devicon-mysql-original",
+      "name": "MySQL"
+    },
+    {
+      "id": 26,
+      "icon": "devicon-firebase-plain",
+      "name": "Firebase"
+    },
+    {
+      "id": 27,
+      "icon": "devicon-mongodb-plain",
+      "name": "MongoDB"
+    },
+    {
+      "id": 28,
+      "icon": "devicon-postgresql-plain",
+      "name": "PostgreSQL"
+    },
+    {
+      "id": 29,
+      "icon": "devicon-sqlite-plain",
+      "name": "SQLite"
+    },
+    {
+      "id": 30,
+      "icon": "devicon-json-plain",
+      "name": "JSON"
+    },
+    {
+      "id": 31,
+      "icon": "devicon-fastapi-plain",
+      "name": "RestAPI"
+    },
+    {
+      "id": 32,
+      "icon": "devicon-materialui-plain",
+      "name": "Material UI"
+    },
+    {
+      "id": 33,
+      "icon": "devicon-antdesign-plain",
+      "name": "Ant Design"
+    },
+    {
+      "id": 34,
+      "icon": "devicon-npm-original-wordmark",
+      "name": "NPM"
+    },
+    {
+      "id": 35,
+      "icon": "devicon-yarn-original",
+      "name": "Yarn"
+    },
+    {
+      "id": 36,
+      "icon": "devicon-vitejs-plain",
+      "name": "Vite.js"
+    }
+  ]
+}

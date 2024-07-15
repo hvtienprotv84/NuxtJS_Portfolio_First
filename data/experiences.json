@@ -1,0 +1,28 @@
+{
+  "experiences": [
+    {
+      "entreprise": "ISAE-SUPAERO",
+      "title": "Học tại Trường Đại Học",
+      "logo": "https://upload.wikimedia.org/wikipedia/vi/8/81/Logo_Tr%C6%B0%E1%BB%9Dng_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_C%C3%B4ng_ngh%E1%BB%87_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh.png",
+      "contract": "Alternance",
+      "date": "2020 - 2024",
+      "description": "- Ngành: Công Nghệ Thông Tin\n- Chuyên Ngành: Công Nghệ Phần Mềm\n- GPA: 8.5\n- Tốt nghiệp loại: Giỏi"
+    },
+    {
+      "entreprise": "TECHSELL",
+      "title": "Thực Tập Front-End",
+      "logo": "https://static.vecteezy.com/system/resources/thumbnails/011/153/368/small_2x/3d-website-developer-working-on-laptop-illustration-png.png",
+      "contract": "CDD",
+      "date": "Tháng 04, 2024 - Tháng 07, 2024",
+      "description": "- Thực Tập Front-End\n- Công Nghệ Sử Dụng\n- ReactJS\n- Tailwind CSS"
+    },
+    {
+      "entreprise": "ISAE-SUPAERO",
+      "title": "Kỹ Năng Tự Học",
+      "logo": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif",
+      "contract": "Stage",
+      "date": "2020 - Hiện Tại",
+      "description": "- Những Ngôn Ngữ Tự Học Được\n- ReactJS\n- VueJS\n- Angular\n- NuxtJS\n- Tailwind CSS\n- Còn thêm..."
+    }
+  ]
+}

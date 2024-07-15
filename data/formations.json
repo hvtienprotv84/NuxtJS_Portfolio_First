@@ -1,0 +1,28 @@
+{
+  "formations": [
+    {
+      "entreprise": "OpenClassrooms",
+      "title": "Développeur Intégrateur Web",
+      "logo": null,
+      "contract": "Obtenu",
+      "date": "Juillet 2023 - Juin 2024",
+      "description": "Quelques projets effectués:\n- Page web dynamique (JS)\n- Optimisation d’un site avec Lighthouse\n- Application de location immobilière (REACT)\n- Back-end d’un site de notation de livre (Node - Express)"
+    },
+    {
+      "entreprise": "EPITECH",
+      "title": "Expert en technologie de l'information",
+      "logo": "/images/logos/epitech.webp",
+      "contract": "1ère année validée",
+      "date": "Septembre 2021 - Juillet 2023",
+      "description": "Quelques projets effectués:\n- Jeu Defender en C / CSFML\n- Compresseur de fichier en C\n- Générateur de Makefile en C\n- Project Week 2023"
+    },
+    {
+      "entreprise": "CNED",
+      "title": "Baccalauréat Général - Mathématiques, NSI, SI",
+      "logo": null,
+      "contract": "Obtenu - Mention Bien",
+      "date": "2021",
+      "description": "- Participation aux 24 heures de l'innovations (3ème place)\n- Développement de plusieurs projets (Extra-Scolaire)\n- Générateur de mot de passe (Python)\n- Domotique (Arduino)\n- Assistant Vocal (Raspberry Pi + Python)"
+    }
+  ]
+}
